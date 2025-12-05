@@ -53,4 +53,4 @@ Please respect GitHub's terms of service.
 
 ## Credits
 
-Created by [DiarTor](https://github.com/DiarTor)
+Made with ❤️ by [DiarTor](https://github.com/DiarTor)
