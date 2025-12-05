@@ -13,10 +13,11 @@ fakeGreen is a fun project aimed at demonstrating how GitHub's contribution grap
 
 ## Features
 
-- Automates daily commits for a "greener" contribution graph
+- Daily commits for a "greener" contribution graph
 - Simple to set up and customize
 - Lightweight and minimal dependencies
 - The commits are random so they may apear legit
+- For automated daily commits you can run it on a server and add a sleep timer for the command
 
 ## Usage
 
