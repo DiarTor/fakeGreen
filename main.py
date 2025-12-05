@@ -126,6 +126,9 @@ if __name__ == "__main__":
     # Option B: One month
     # days = build_date_range(year=2023, month=5)
 
+    # Option C: Date range
+    # days = build_date_range(start_date="2023-11-1", end_date="2024-1-1")
+
     # Option C: Specific range
     days = build_date_range(year=2022, month=12)
 
