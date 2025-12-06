@@ -1,4 +1,7 @@
 # 🌱 fakeGreen
+![photo_2025-12-06_14-11-218_imgupscaler ai_Beta_4K](https://github.com/user-attachments/assets/fd1b09b1-6730-4ebe-a15c-e4f530e448bf)
+
+
 
 
 fakeGreen is a fun project aimed at demonstrating how GitHub's contribution graph can appear more "green" (i.e., active) through automated commits. This repository offers a simple way to generate daily commits, making your contribution graph stand out.
