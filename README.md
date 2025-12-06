@@ -38,8 +38,13 @@ fakeGreen is a fun project aimed at demonstrating how GitHub's contribution grap
    git commit -m "Setup fakeGreen"
    git push origin main
    ```
-
-4. **Use it:**  
+4. **Configuration:**
+   You can configure the script by changing this line:
+   ```bash
+   # example
+   days = build_date_range(year=2022, month=12)
+   ```
+6. **Use it:**  
    ```bash
    python3 main.py
    ```
